@@ -15,6 +15,6 @@ Rscript --vanilla trimTree.R bac120_r86.1.tree SpeciesReduced_final.csv out
 
 -the first argument (`bac120_r86.1.tree`) is the original tree for pruning. The tree was downloaded from [here](https://data.ace.uq.edu.au/public/gtdb/data/releases/release86/86.1/)
 
--the second argument (`SpeciesReduced_final.csv`)is the list of species you to keep in the tree
+-the second argument (`SpeciesReduced_final.csv`)is the list of species to keep in the tree
 
 -the third argument is the output file prefix. The default prefix value is `out`. In this case the output files would be `out.tree` and `out_distances.csv`.
