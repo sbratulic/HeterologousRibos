@@ -1,5 +1,5 @@
 # HeterologousRibos
-Phylogenetic tree pruning for the "Orthogonal Translation Enables Heterologous Ribosome Engineering in *E. coli*" manuscript
+## Phylogenetic tree pruning for the "Orthogonal Translation Enables Heterologous Ribosome Engineering in *E. coli*" manuscript
 
 To run the script, first download and install [R](https://cran.r-project.org/mirrors.html). The script used the [Ape](https://cran.r-project.org/web/packages/ape/index.html) for tree prunning and [dplyr](https://cran.r-project.org/web/packages/dplyr/index.html) to wrangle the inputs/results packages. These libraries can be installed from `R` with:
 
